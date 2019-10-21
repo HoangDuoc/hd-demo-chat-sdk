@@ -1,0 +1,28 @@
+{
+  "name": "hd-demo-chat-sdk",
+  "version": "0.0.1",
+  "description": "The hd communication platform makes it easy to embed high-quality interactive video, voice, SMS into webs and mobile apps.",
+  "main": "stringee_sdk.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hd",
+    "chat",
+    "javascript"
+  ],
+  "author": "HoangDuoc <hoangduoc20121540@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoangDuoc/hd-demo-chat-sdk.git"
+  },
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "adapter": "0.0.1"
+  },
+  "devDependencies": {
+    "socket.io": "^2.2.0",
+    "adapter": "0.0.1"
+  }
+}
